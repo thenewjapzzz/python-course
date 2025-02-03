@@ -17,3 +17,4 @@ class Funcionarios:
 usuario1 = Funcionarios('Guilherme', 'Sato', 2005)
 
 print(Funcionarios.idade_funcionario(usuario1))
+print(Funcionarios.nome_completo(usuario1))
